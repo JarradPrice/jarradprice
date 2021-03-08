@@ -1,4 +1,12 @@
-### Hi there 👋
+## 👋 Hey, I'm Jarrad
+I'm a fresh undergraduate software engineer looking to grow his skill and career in software development. 
+
+## 🎓 Education
+I am looking for industry placement to complete my software engineering degree at Univcersity of Newcastle.
+
+## 🖥 Works
+On display in my profile is:
+- The SENG3150 project I worked on as a part of a 5 person time, my role was developing the front-end with another student.
 
 <!--
 **JarradPrice/jarradprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
