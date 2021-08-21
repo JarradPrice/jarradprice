@@ -2,7 +2,7 @@
 I am a fresh undergraduate software engineer looking to grow his skill and career in software development. 
 
 ## 🎓 Education
-I am looking for industry placement to complete my software engineering degree at University of Newcastle.
+Aiming to complete my software engineering degree at University of Newcastle in 2021.
 
 ## 🖥 Works
 On display in my profile is:
